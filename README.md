@@ -1,2 +1,4 @@
-# express-control-api
-Controle de Despesas - API
+# API do Sistema de Controle de Despesas
+
+## Tecnologias
+- .NET Core
